@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Frontendmentor.io](https://www.frontendmentor.io/solutions/interactive-rating-component-challenge-using-tailwind-css-mCWgqwopF9)
+- Solution URL: [Frontendmentor.io](https://www.frontendmentor.io/solutions/qr-code-component-challenge-using-html-css-D6l74qhSk)
 - Live Site URL: [fsuropaty.github.io](https://github.com/fsuropaty/qr-code-component-challenge)
 
 ## My process
@@ -36,7 +36,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-I strengthen my CSS knowledge from this challenge
+This strengthens my knowledge about CSS
 
 ### Useful resources
 
