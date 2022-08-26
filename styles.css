@@ -7,14 +7,17 @@
 body {
   background-color: var(--light-gray);
   font-family: "Outfit", sans-serif;
+  height: 100vh;
 }
 
 #container {
+  height: 100%;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 95vh;
 }
+
 #card {
   width: 300px;
   margin: 2em;
@@ -23,7 +26,7 @@ body {
   border-radius: 25px;
 }
 
-#qrcode {
+img {
   width: 100%;
   height: 100%;
   border-radius: 15px;
@@ -34,25 +37,25 @@ body {
   color: var(--dark-blue);
 }
 
-#description #title {
+h1 {
   margin: 0.75em 0.3em;
   font-weight: 700;
   font-size: 22px;
 }
 
-#description #text {
+p {
   margin: 1em;
   font-weight: 400;
   color: var(--grayish-blue);
 }
 
-.attribution {
+footer {
   text-align: center;
   color: var(--grayish-blue);
   font-size: small;
 }
 
-.attribution a {
+footer a {
   text-decoration: none;
   color: var(--dark-blue);
 }
